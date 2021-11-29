@@ -1,0 +1,8 @@
+"おめでとう！ cdコマンド、catコマンドに成功！！"
+
+find_catディレクトリに移動して、"CAT"を見つけ出そう！！
+
+ターミナルで ' ls ' コマンド打った際に以下の５つが表示されるまで、
+' cd .. ' コマンドを打って、find_catディレクトリに移動しましょう！
+
+station_aoyamaityoume・station_meguro・station_shibuya・チュートリアル・README.md
