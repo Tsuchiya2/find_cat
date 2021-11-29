@@ -9,12 +9,14 @@ find_catディレクトリ以下から`CAT`を探し出してください。
 ## セッティング
 
 ```bash
-  ・ git clone example@example.com
+  ・ git clone git@github.com:Tsuchiya2/find_cat.git
 
   ・ cd find_cat
 
   ・ git remote rm origin
 ```
+
+＊ HTTPS形式の場合は、`git clone https://github.com/Tsuchiya2/find_cat.git` になります。
 
 ## チュートリアル
 
